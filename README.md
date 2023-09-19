@@ -1,6 +1,6 @@
 # Team11 - 🔥코친놈들🔥 README
 
-2023 APPSCHOOL-iOS3rd 코친놈들.
+2023 LikeLion APPSCHOOL-iOS3rd 코친놈들.
 
 ## 팀원 구성
 |LEADER|MEMBER|MEMBER|MEMBER|MEMBER|
