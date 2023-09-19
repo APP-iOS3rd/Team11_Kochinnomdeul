@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Team11%20🔥코친놈들🔥&desc=2023%20LIKELION%20APP-iOS3rd&animation=twinkling&fontSize=50&fontAlignY=40" />
+	<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Team11%20🔥코친놈들🔥&desc=2023%20LIKELION%20APP-iOS3rd&animation=twinkling&fontSize=70&fontAlignY=40" />
 </div>
 
 
