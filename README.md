@@ -6,7 +6,7 @@
 |LEADER|MEMBER|MEMBER|MEMBER|MEMBER|
 |------|---|---|---|---|
 |이성현|권석기|여현서|김강혁|정민규|
-|      |      |Ahario|      |      |
+|zxl3651|tjrrl0706|Ahario|TakeMos|mingyu-jung|
 
 ## 팀 목표
 * 추구하는 학습 방향
