@@ -3,10 +3,12 @@
 2023 LikeLion APPSCHOOL-iOS3rd 코친놈들.
 
 ## 팀원 구성
-|LEADER|MEMBER|MEMBER|MEMBER|MEMBER|
-|------|---|---|---|---|
-|이성현|권석기|여현서|김강혁|정민규|
-|      |tjrrl0706 |Ahario|      |      |
+
+|POSITION|LEADER|MEMBER|MEMBER|MEMBER|MEMBER|
+|---|------|---|---|---|---|
+|이름|이성현|권석기|여현서|김강혁|정민규|
+|아이디|[zxl3651](https://github.com/zxl3651)|[tjrrl0706](https://github.com/tjrrl0706)|[Ahario](https://github.com/Ahario)|[TakeMos](https://github.com/TakeMos)|[mingyu-jung](https://github.com/mingyu-Jung)|
+
 
 ## 팀 목표
 * 추구하는 학습 방향
